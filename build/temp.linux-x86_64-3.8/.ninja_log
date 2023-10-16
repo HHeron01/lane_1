@@ -1,0 +1,3 @@
+# ninja log v5
+0	816	1696159552364667912	/workspace/lane/build/temp.linux-x86_64-3.8/mmdet3d/ops/bev_pool_v2/src/bev_pool_cuda.o	60c29e3d5cdc62b7
+0	19994	1696159571532396368	/workspace/lane/build/temp.linux-x86_64-3.8/mmdet3d/ops/bev_pool_v2/src/bev_pool.o	1d288ea344606aca
